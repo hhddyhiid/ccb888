@@ -1,3 +1,7 @@
 name = "green-poetry-eb5a"
 main = "Vless无需proxyip的nat64套壳版 (推荐使用).js"
 compatibility_date = "2025-08-20"
+
+[env.production]
+name = "green-poetry-eb5a"
+compatibility_date = "2025-08-20"
